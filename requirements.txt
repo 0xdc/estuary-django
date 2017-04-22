@@ -1,0 +1,4 @@
+git+https://github.com/0xdc/estuary-app-livestream
+Django==1.11
+gunicorn==19.7.1
+mysqlclient==1.3.10
